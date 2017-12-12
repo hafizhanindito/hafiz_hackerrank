@@ -5,7 +5,7 @@
 # 1 2 3 4 5     (a:array); a correspong to the input array
 
 # stdout
-# 5 1 2 3 4     <<expected output
+# 5 1 2 3 4     <<expected output after left rotation
 
 def array_left_rotation(a, n, k):
     # initialize counter and a new array
